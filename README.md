@@ -90,20 +90,6 @@ Soy un desarrollador full stack con experiencia en el desarrollo de aplicaciones
 
 ---
 
-## 🎓 Educación
-
-- **Ingeniería de Software** (GPA 4.0/5.0)  
-  Fundación Universitaria Empresarial de la Cámara de Comercio de Bogotá
-
-- **Diplomado en Inteligencia Artificial**  
-  Fundación Universitaria Empresarial de la Cámara de Comercio de Bogotá
-
-- **Certificaciones:**  
-  - PHP  
-  - Python & Hour of Code
-
----
-
 Siempre abierto a nuevos retos y oportunidades para seguir creciendo como desarrollador.
 
 ¡Gracias por visitar mi perfil!
